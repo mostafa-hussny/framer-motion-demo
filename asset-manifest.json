@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/framer-motion-demo/static/css/main.3cd2ed62.css",
+    "main.js": "/framer-motion-demo/static/js/main.3e864c71.js",
+    "static/js/453.f9b5dee5.chunk.js": "/framer-motion-demo/static/js/453.f9b5dee5.chunk.js",
+    "index.html": "/framer-motion-demo/index.html",
+    "main.3cd2ed62.css.map": "/framer-motion-demo/static/css/main.3cd2ed62.css.map",
+    "main.3e864c71.js.map": "/framer-motion-demo/static/js/main.3e864c71.js.map",
+    "453.f9b5dee5.chunk.js.map": "/framer-motion-demo/static/js/453.f9b5dee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd2ed62.css",
+    "static/js/main.3e864c71.js"
+  ]
+}
